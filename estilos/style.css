@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 body,html {
-    background-color: #F2CA52;
+    background-color: #f2ca529d;
     height: 100vh;
     width: 100vw;
 }
@@ -24,7 +24,7 @@ section#login {
     transform: translate(-50%, -50%);
     overflow: hidden;
 
-    background-color: #d9ae7975;
+    background-color: #d9ae794f;
     width: 250px;
     height: 500px;
     border-radius: 20px;
@@ -32,7 +32,7 @@ section#login {
 }
 section#login > div#imagem{
     display: block;
-    background: #F2CA52 url(../imagens/img02.jpg) no-repeat;
+    background: #f2ca529d url(../imagens/img02.jpg) no-repeat;
     background-size: cover;
     background-position: left bottom;
     height: 200px;
